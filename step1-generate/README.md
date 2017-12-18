@@ -2,7 +2,7 @@
 
 (1) 
 ```
-mvn archetype:generate -DarchetypeGroupId=org.wso2.msf4j -DarchetypeArtifactId=msf4j-microservice -DarchetypeVersion=1.0.0 -DgroupId=org.example -DartifactId=stockquote -Dversion=0.1-SNAPSHOT -Dpackage=org.example.service -DserviceClass=StockQuoteService
+mvn archetype:generate -DarchetypeGroupId=org.wso2.msf4j -DarchetypeArtifactId=msf4j-microservice -DarchetypeVersion=1.0.0 -DgroupId=org.example -DartifactId=stockquote -Dversion=0.1-SNAPSHOT -Dpackage=org.example.service -DserviceClass=HelloService
 ```
 (2) Create an IDE project;
 ``` 
